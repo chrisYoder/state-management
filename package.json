@@ -1,0 +1,25 @@
+{
+  "name": "state-management",
+  "version": "1.0.0",
+  "description": "beedle test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisYoder/state-management.git"
+  },
+  "author": "theCodingStoic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisYoder/state-management/issues"
+  },
+  "homepage": "https://github.com/chrisYoder/state-management#readme",
+  "dependencies": {
+    "beedle": "^0.8.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.4.0"
+  }
+}
